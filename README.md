@@ -75,7 +75,7 @@ The entire architecture — VPC, subnets, security groups, RDS, EC2, ALB, Auto S
 
 **Live proof of DB connection:**
 
-![Website Live](screenshots/17-website-live.png)
+![Website Live](screenshots/18-website-live.png)
 
 ---
 
