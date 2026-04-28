@@ -207,6 +207,7 @@ resource "aws_db_instance" "main" {
   skip_final_snapshot  = true
   publicly_accessible  = false
   tags = { Name = "three-tier-db" }
+  multi_az             = true
 }
 
 # ── LAUNCH TEMPLATE ──
